@@ -6,7 +6,6 @@ public class MyFrame extends JFrame {
         this.setTitle("JFrame Title");
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //exit out of application
-        this.setResizable(false); //prevent from resizing
         this.setSize(600, 600);
         this.setVisible(true); //making this visible
 
