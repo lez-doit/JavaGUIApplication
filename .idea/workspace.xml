@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1905fc4-9dbb-4809-bc6e-f8b1b47e0a5d" name="Changes" comment="Set up the label">
+    <list default="true" id="c1905fc4-9dbb-4809-bc6e-f8b1b47e0a5d" name="Changes" comment="Added JPanel, moved label to panel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
     </list>
@@ -51,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674722891805</updated>
-      <workItem from="1674722893070" duration="7095000" />
+      <workItem from="1674722893070" duration="14549000" />
     </task>
     <task id="LOCAL-00001" summary="Added logo to program">
       <created>1674724181534</created>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674726212739</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added JPanel, moved label to panel">
+      <created>1674730678174</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674730678174</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +111,7 @@
     <MESSAGE value="Added bg color, moved the code to a separate class" />
     <MESSAGE value="Added label with icon to frame" />
     <MESSAGE value="Set up the label" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set up the label" />
+    <MESSAGE value="Added JPanel, moved label to panel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JPanel, moved label to panel" />
   </component>
 </project>
